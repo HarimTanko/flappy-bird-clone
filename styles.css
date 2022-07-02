@@ -41,10 +41,6 @@ body {
 }
 
 .pipe {
-  --pipe-width: 120;
-  --pipe-left: 150;
-  --hole-top: 400;
-  --hole-height: 120;
   position: absolute;
   top: 0;
   bottom: 0;
